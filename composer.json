@@ -38,5 +38,8 @@
         "branch-alias": {
             "dev-master": "1.0-dev"
         }
+    },
+    "replace": {
+        "spatie/url-signer": "1.2.*"
     }
 }
