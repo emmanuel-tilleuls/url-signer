@@ -1,5 +1,5 @@
 {
-    "name": "emmanuel-tilleul/url-signer",
+    "name": "emmanuel-tilleuls/url-signer",
     "description": "Generate a url with an expiration date and signature to prevent unauthorized access",
     "keywords": [
         "spatie",
